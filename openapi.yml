@@ -1,8 +1,0 @@
-openapi: 3.0.3
-info:
-  title: Employee Management Application
-  version: 1.0.0
-  description: |-
-    Spring RESTful Web Service Demo project for managing a company's employees
-
-paths: {}
